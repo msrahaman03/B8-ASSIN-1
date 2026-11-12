@@ -1,0 +1,1 @@
+In TypeScript, both type and interface are used to define the structure of data. They look similar, but they have some important differences.
